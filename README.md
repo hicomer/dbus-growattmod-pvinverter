@@ -88,7 +88,7 @@ sh /data/dbus-growattmod-pvinverter/uninstall.sh
 rm -r /data/dbus-growattmod-pvinverter/
    ```
 
-# Waveshare RS485 Gateway
+# Waveshare RS485 gateway config example
 
 ![WAVE-01](img/Waveshare-Config-RTU.JPG)
 
@@ -96,13 +96,15 @@ rm -r /data/dbus-growattmod-pvinverter/
 
 # Thank you
 
+## Used as template
+
+https://github.com/kcbam/dbus-huaweisun2000-pvinverter
+
 ## Used libraries
 
 modified version of https://github.com/olivergregorius/sun2000_modbus
 
 ## this project is inspired by
-
-https://github.com/kcbam/dbus-huaweisun2000-pvinverter
 
 https://github.com/RalfZim/venus.dbus-fronius-smartmeter
 
