@@ -1,0 +1,10 @@
+                // dbus-growattmod start
+                MbSubMenu {
+                        id: menuGrowattMOD
+                        description: qsTr("Growatt MOD")
+                        subpage: Component {
+                                PageSettingsGrowattMOD { }
+                        }
+                }
+                // dbus-growattmod end
+
