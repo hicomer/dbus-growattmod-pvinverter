@@ -73,7 +73,7 @@ Also useful:
 `svc -u /service/dbus-growattmod-pvinverter`
 
 
-### Restart the script
+### Restart the script 
 
 If you want to restart the script, for example after changing it, just run the following command:
 
