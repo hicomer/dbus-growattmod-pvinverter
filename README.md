@@ -23,11 +23,11 @@ This means that Growatt Cloud access including the app remains unaffected.
 
    Easy way:
    ```
-   wget https://github.com/hicomer/dbus-growattmod-pvinverter/archive/refs/heads/main.zip
-   unzip main.zip -d /data
-   mv /data/dbus-growattmod-pvinverter-main /data/dbus-growattmod-pvinverter
+   wget https://github.com/hicomer/dbus-growattmod-pvinverter/archive/refs/heads/master.zip
+   unzip master.zip -d /data
+   mv /data/dbus-growattmod-pvinverter-master /data/dbus-growattmod-pvinverter
    chmod a+x /data/dbus-growattmod-pvinverter/install.sh
-   rm main.zip
+   rm master.zip
    ```
 
 
